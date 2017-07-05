@@ -23,11 +23,10 @@ export default new Router({
 	routes: [
 		{
 			path: '/',
-			name: 'Home',
 			component: Home,
 			children: [
 				{
-					path: '',
+					path: '/',
 					name: 'TakeAway',
 					component: TakeAway
 				},
