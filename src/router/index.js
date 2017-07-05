@@ -27,7 +27,7 @@ export default new Router({
 			component: Home,
 			children: [
 				{
-					path: 'takeAway',
+					path: '',
 					name: 'TakeAway',
 					component: TakeAway
 				},

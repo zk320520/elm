@@ -4,7 +4,7 @@
         <div id="nav">
             <ul>
                 <li>
-                    <router-link to="/takeAway">
+                    <router-link to="/">
                         <div class="iconfont icon-hanbao"></div>
                         <div>外卖</div>      
                     </router-link>

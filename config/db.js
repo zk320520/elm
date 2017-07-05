@@ -1,4 +1,3 @@
-
 module.exports = {
-	mongodb: "mongodb://localhost:27017/schemaname"
+	mongodb: "mongodb://localhost:27017/elm"
 };
