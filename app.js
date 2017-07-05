@@ -15,6 +15,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('dist'));
 
+// API服务器
 app.use('/api', router);
 
 app.use(function (req, res, next) {
