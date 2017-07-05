@@ -11,7 +11,7 @@ npm install
 # FE server with hot reload at localhost:8080
 npm run dev
 
-# BE server with hot reload at localhost:8080
+# BE server with hot reload at localhost:3000
 npm run server
 
 # build for production with minification
