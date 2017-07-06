@@ -4,6 +4,7 @@
         <footWrap></footWrap>
         <advertisingSpace></advertisingSpace>
         <recommendSpace></recommendSpace>
+        <h3 class="recommend-title">推荐商家</h3>
         <recommendList></recommendList>
     </div>
 </template>
@@ -26,6 +27,17 @@
     }
 </script>
 
-<style>
-
+<style scoped>
+    .takeAway {
+        margin-bottom: 50px;
+    }
+    .takeAway .recommend-title {
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 30px;
+        padding-left: 10px;
+        margin-top: 10px;
+        background-color: #fff;
+        border-top: 1px solid #eee;
+    }
 </style>

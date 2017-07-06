@@ -24,7 +24,7 @@
                         footType: '美食'
                     },
                     {
-                        imgUrl: 'https://fuss10.elemecdn.com/a/fa/d41b04d520d445dc5de42dae9a384jpeg.jpeg',
+                        imgUrl: '//fuss10.elemecdn.com/3/84/8e031bf7b3c036b4ec19edff16e46jpeg.jpeg?imageMogr/format/webp/thumbnail/!90x90r/gravity/Center/crop/90x90/',
                         footType: '准时达'
                     },
                     {
@@ -67,6 +67,7 @@
         float: left;
         width: 25%;
         margin: 5px 0;
+        text-align: center;
     }
     .footWrap ul li img {
         display: block;

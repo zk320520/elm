@@ -56,6 +56,7 @@
         flex: 1;
 		font-size: 10px;
 		line-height: 1.2;
+        text-align: center;
     }
 	#nav ul li .iconfont {
 		font-size: 20px;
