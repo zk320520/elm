@@ -22,7 +22,6 @@
         }
     }
 </script>
-
 <style scoped>
     .discover {
 
