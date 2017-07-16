@@ -129,6 +129,7 @@
         display: block;
         width: 50px;
         height: 50px;
+        margin: 2px 0;
         border-radius: 2px;
     }
     .recommendlist li .main {

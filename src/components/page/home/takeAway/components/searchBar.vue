@@ -32,7 +32,7 @@
     .searchBar {
         padding: 10px 12px;
         color: #fff;
-        height: 80px;
+        height: 90px;
         background-image: -webkit-linear-gradient(left, #0af, #0085ff);
         background-image: linear-gradient(90deg, #0af, #0085ff);
         position: sticky;
@@ -47,7 +47,7 @@
         display: block;
         margin: 10px 0;
         width: 100%;
-        height: 30px;
+        height: 35px;
         color: #333;
         font-size: 14px;
         text-align: center;
